@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="santaevil.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="santa idle in fear evil instance 10000" x="0" y="0" width="630" height="751" pivotX="-36.05" pivotY="28.95" frameX="0" frameY="-29" frameWidth="630" frameHeight="780"/>
+</TextureAtlas>

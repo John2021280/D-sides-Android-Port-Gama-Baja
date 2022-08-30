@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilupperBop.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Upper Crowd BobEvil0000" x="0" y="0" width="1757" height="369" frameX="0" frameY="-8" frameWidth="1757" frameHeight="377"/>
+</TextureAtlas>
