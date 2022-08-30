@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
+				1,
 				0
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				250,
-				-23
+				91,
+				-32
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				10,
-				-60
+				17,
+				-57
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -36,7 +36,7 @@
 		{
 			"offsets": [
 				20,
-				-160
+				-221
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				14,
-				71
+				13,
+				42
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -60,79 +60,79 @@
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
 			"indices": [
 				10,
 				11,
 				12,
 				13
 			],
-			"fps": 24,
-			"anim": "idle-loop",
-			"loop": true,
 			"name": "Mom Idle"
 		},
 		{
 			"offsets": [
-				250,
+				80,
 				-23
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
 			"indices": [
 				6,
 				7,
 				8,
 				9
 			],
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"loop": true,
 			"name": "Mom Left Pose"
 		},
 		{
 			"offsets": [
-				14,
-				71
+				10,
+				42
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
 			"indices": [
 				11,
 				12,
 				13,
 				14
 			],
-			"fps": 24,
-			"anim": "singUP-loop",
-			"loop": true,
 			"name": "Mom Up Pose"
 		},
 		{
 			"offsets": [
-				10,
+				30,
 				-60
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
 			"indices": [
 				6,
 				7,
 				8,
 				9
 			],
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"loop": true,
 			"name": "Mom Pose Left"
 		},
 		{
 			"offsets": [
 				20,
-				-160
+				-230
 			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
 			"indices": [
 				11,
 				12,
 				13,
 				14
 			],
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"loop": true,
 			"name": "MOM DOWN POSE"
 		}
 	],
@@ -140,18 +140,18 @@
 	"image": "characters/momCar",
 	"position": [
 		0,
-		0
+		-10
 	],
 	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		249,
+		120,
+		95
 	],
 	"camera_position": [
 		0,
-		0
+		110
 	],
 	"sing_duration": 4,
 	"scale": 1

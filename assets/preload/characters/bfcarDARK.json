@@ -189,7 +189,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfchristmas",
+	"image": "characters/bfcarDARK",
 	"position": [
 		0,
 		350
@@ -202,8 +202,8 @@
 		216
 	],
 	"camera_position": [
-		50,
-		-220
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

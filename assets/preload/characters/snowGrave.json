@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				-218,
-				-280
+				-6,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "SpiritIdle"
+			"name": "Idle_Frozen"
 		},
 		{
 			"offsets": [
-				-200,
-				-253
+				-5,
+				1
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "idk",
 			"indices": [],
-			"name": "SpiritLeft"
+			"name": "idk"
 		},
 		{
 			"offsets": [
-				-203,
-				-265
+				-7,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
+			"anim": "idk2",
 			"indices": [],
-			"name": "SpiritDown"
+			"name": "idk-2"
 		},
 		{
 			"offsets": [
-				-216,
-				-253
+				2,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "idk3",
 			"indices": [],
-			"name": "SpiritRight"
+			"name": "idk-3"
 		},
 		{
 			"offsets": [
-				-220,
-				-240
+				-3,
+				-3
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "idk4",
 			"indices": [],
-			"name": "SpiritUp"
+			"name": "idk-4"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/SpiritAssets",
+	"no_antialiasing": false,
+	"image": "characters/snowgrave",
 	"position": [
-		-150,
-		100
+		-160,
+		290
 	],
-	"healthicon": "spirit-pixel",
-	"flip_x": false,
+	"healthicon": "face",
+	"flip_x": true,
 	"healthbar_colors": [
-		135,
-		52,
-		184
+		161,
+		161,
+		161
 	],
 	"camera_position": [
-		-450,
-		-60
+		140,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

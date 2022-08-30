@@ -3,97 +3,75 @@
 		{
 			"loop": false,
 			"offsets": [
-				-4,
+				1,
 				0
 			],
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Pico Idle Dance"
+			"name": "Mom Idle"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				42,
-				-25
+				40,
+				-3
 			],
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Pico Note Right0"
+			"name": "Mom Left Pose"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-32,
-				-10
+				20,
+				-40
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"name": "Mom Pose Left"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-43,
-				43
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				16,
-				-98
+				20,
+				-220
 			],
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Pico Down Note0"
+			"name": "MOM DOWN POSE"
 		},
 		{
-			"offsets": [
-				17,
-				-5
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "shoot",
-			"indices": [],
-			"name": "Pico Shoot"
-		},
-		{
 			"offsets": [
-				-60,
-				6
+				14,
+				41
 			],
-			"loop": false,
 			"fps": 24,
-			"anim": "reload",
+			"anim": "singUP",
 			"indices": [],
-			"name": "Pico Gun Charge"
+			"name": "Mom Up Pose"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/momCarDARK",
 	"position": [
-		125,
-		270
+		0,
+		0
 	],
-	"healthicon": "pico",
-	"flip_x": true,
+	"healthicon": "mom",
+	"flip_x": false,
 	"healthbar_colors": [
-		234,
-		151,
-		195
+		249,
+		120,
+		95
 	],
 	"camera_position": [
-		40,
-		0
+		0,
+		110
 	],
 	"sing_duration": 4,
 	"scale": 1
